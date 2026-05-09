@@ -64,6 +64,10 @@ Built with **Tkinter + Bleak** (async BLE library). Features:
 [EEE416_LineFollowingRobot_PowerPoint.pdf](https://github.com/user-attachments/files/27557085/EEE416_LineFollowingRobot_PowerPoint.pdf)
 
 ---
+## Demo Video Link
+https://ulster-my.sharepoint.com/:v:/r/personal/keenan-c36_ulster_ac_uk/Documents/EEE416%20Project.mov?csf=1&web=1&e=ynZmWD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
 ## 👤 Authors
 **Jacob Dunlevy & Cillian Keenan** — MEng Mechatronics Engineering, Ulster University  
 [LinkedIn](https://www.linkedin.com/in/jacob-dunlevy-24861a388)
